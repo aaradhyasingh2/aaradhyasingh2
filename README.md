@@ -1,9 +1,8 @@
 ![logo](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Aaradhya Singh</h1>
 <h3 align="center">🚀Enthusiastic Front-end developer hailing from India, fueled by passion and creativity.👩‍💻</h3><br/>
-<img align="right" alt="coding" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=aaradhyasingh&label=Profile%20views&color=0e75b6&style=flat" alt="aaradhyasingh" width="250"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=aaradhyasingh&label=Profile%20views&color=0e75b6&style=flat" alt="aaradhyasingh" width="180"/></p>
 
 - 🔭 I’m currently working on **improving my Problem Solving Skills.**
 
@@ -19,7 +18,7 @@
 
 - 😄 Pronouns: She/Her
 
-- ⚡ Fun fact: **🏏I'm fan of MS Dhoni with a deep passion for cricket.🌟**
+- ⚡ Fun fact: **I'm fan of MS Dhoni with a deep passion for cricket.🏏**
 <br/><br/>
 <h1 align="Center">Connect with me:</h1>
 <h3 align="Center">
