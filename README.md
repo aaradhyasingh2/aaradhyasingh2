@@ -23,7 +23,7 @@
 <h1 align="Center">Connect with me:</h1>
 <h3 align="Center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/theaaradhyasingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/theaaradhyasingh/" height="30" width="40"/></a>
-<a href="https://github.com/in/https://github.com/aaradhyasingh21" target="_blank"><img src="https://camo.githubusercontent.com/bf4b11af389d1e0caf625c40c274ba71464727c43579e48f512112694888eb62/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6769746875622e737667" alt="https://github.com/aaradhyasingh21" height="30" width="40" align="center"/></a>
+<a href="https://github.com/aaradhyasingh2" target="_blank"><img src="https://camo.githubusercontent.com/bf4b11af389d1e0caf625c40c274ba71464727c43579e48f512112694888eb62/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6769746875622e737667" alt="https://github.com/aaradhyasingh2" height="30" width="40" align="center"/></a>
 </h3>
 <br/>
 <h1 align="Center">Languages and Tools:</h1>
